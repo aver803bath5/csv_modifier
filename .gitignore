@@ -243,3 +243,6 @@ dmypy.json
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+
+final_final_traindata.csv
+final_traindata.csv
